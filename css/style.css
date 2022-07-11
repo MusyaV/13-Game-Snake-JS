@@ -1,0 +1,8 @@
+#ground {
+display: block;
+}
+button {
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: rgb(94, 255, 255);
+}
